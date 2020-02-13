@@ -1,6 +1,6 @@
 # monitor_plus
 
-是一款桌面悬浮窗程序，用于显示cpu，磁盘，ram的使用情况，并且集成了简单的记事本和MySQL服务的开关。
+是一款桌面悬浮窗程序，用于显示cpu，磁盘，ram，网络流量的使用情况，并且集成了简单的记事本和MySQL服务的开关。
 
 基础功能来源于：https://github.com/e-xxkun/FloatingWindow
 
